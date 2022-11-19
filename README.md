@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dea-a-d
 - 👀 I’m interested in singing, playing piano, doing some different stuff with colors (I mean color combinations) and coding (I guess it's obvious)
-- 🌱 I’m currently learning HRML, CSS and JS
+- 🌱 I’m currently learning HTML, CSS and JS
 - 📫 You may reach me on twitter (or just email me, guys)
 
 <!---
